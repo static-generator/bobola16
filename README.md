@@ -3,8 +3,10 @@
 **Juliana Tracy Fandino**
 > San Felipe, Naga City
 ---
-i really don't know what i am doing :skull:
-here is an image of jonny the cat: ![alt text](https://static.wikia.nocookie.net/themandelacatalogue/images/3/3e/Jonny.webp/revision/latest?cb=20220621150855)
+i like to listen to music. i want to add my favorite song here:
+> [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/track/2BHj31ufdEqVK5CkYDp9mA?utm_source=generator)
 
-i want to add my favorite song here:
-https://open.spotify.com/embed/track/2BHj31ufdEqVK5CkYDp9mA?utm_source=generator
+please listen to it! ^^
+
+here are some bands and artists that i like:
+> ![alt text](https://m.media-amazon.com/images/I/41oEdaVRKRL._UX250_.jpg)
