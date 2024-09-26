@@ -1,12 +1,7 @@
 # Bobola
 ## CN 16
 **Juliana Tracy Fandino**
-> San Felipe, Naga City
 ---
-i like to listen to music. i want to add my favorite song here:
-> [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/track/2BHj31ufdEqVK5CkYDp9mA?utm_source=generator)
+i really like to listen to music and am not limited by genre. here are some of my favorite songs.
 
-please listen to it! ^^
-
-here are some bands and artists that i like:
-> ![alt text](https://m.media-amazon.com/images/I/41oEdaVRKRL._UX250_.jpg)
+><iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2BHj31ufdEqVK5CkYDp9mA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
